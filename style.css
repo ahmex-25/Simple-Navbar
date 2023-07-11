@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    margin: 1;
+}
+.topNav{
+    background-color: #f2f2f2dd;
+    padding: 10px 10px 10px 10px;
+    width: 23.5%;
+    margin: auto;
+    border-radius: 5px;   
+    box-shadow: 5px 3px 10px 2px black;
+}
+
+a {
+    color: black;
+    word-spacing: 1px;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    font-family: 'Sans Serif', sans-serif;
+    font-size: 15px;
+}
+
